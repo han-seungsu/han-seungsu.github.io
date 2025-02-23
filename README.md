@@ -17,7 +17,8 @@ Undergaduated student, Department of Statistics, Seoul National University
 **Intern @ Uncertainty Quantification Lab** (_2024.12 - Present_)
 - field
 - skills
-###
+
+
 ## Honors and Awards
 - Academic Excellence Scholarship (_2021 Spring & Fall_)
 - National Science & Technology Scholarship (_2022 Spring - Present_)
@@ -31,3 +32,9 @@ Undergaduated student, Department of Statistics, Seoul National University
 1. Oh, Sunmin, Seungsu Han, and Gunwoong Park. "Optimal estimation of linear non-Gaussian structure equation models." The 28th International Conference on Artificial Intelligence and Statistics.
 2. ...
 3. ...
+
+
+## Additional Information
+- Soccer team
+- TA
+- 멘토링..
