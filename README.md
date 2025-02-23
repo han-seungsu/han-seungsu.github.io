@@ -1,11 +1,13 @@
-- Seungsu Han
-- undergaduated student
-- email: gkstmtm@gmail.com
-- phone: +82-10-4234-1413
-- linked-in: [seungsu-han](https://www.linkedin.com/in/seungsu-han-a92201330/)
+Undergaduated student, Department of Statistics, Seoul National University
+
+email: gkstmtm@gmail.com
+
+phone: +82-10-4234-1413
+
+linked-in: [seungsu-han](https://www.linkedin.com/in/seungsu-han-a92201330/)
 
 ## Education	        		
-- B.S. in Statistics | Seoul National University (2020.03 - Present)
+- B.S. in Statistics | Seoul National University (_2020.03 - Present_)
 
 ## Work Experience
 **Intern @ Data Science & Machine Learning Lab (_2024.06 - 2024.12_)**
