@@ -1,8 +1,8 @@
-Seungsu Han
-undergaduated student
-email: gkstmtm@gmail.com
-phone: +82-10-4234-1413
-linked-in: [seungsu-han](https://www.linkedin.com/in/seungsu-han-a92201330/)
+- Seungsu Han
+- undergaduated student
+- email: gkstmtm@gmail.com
+- phone: +82-10-4234-1413
+- linked-in: [seungsu-han](https://www.linkedin.com/in/seungsu-han-a92201330/)
 
 ## Education	        		
 - B.S. in Statistics | Seoul National University (2020.03 - Present)
