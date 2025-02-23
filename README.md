@@ -1,10 +1,10 @@
 Undergaduated student, Department of Statistics, Seoul National University
 
-<img src="picture/mail.png" alt="email" width="16" height="16"> gkstmtm@gmail.com
+<img src="picture/mail.png" alt="email" width="16" height="16"> : gkstmtm@gmail.com
 
-phone: +82-10-4234-1413
+<img src="picture/phone.png" alt="phone" width="16" height="16"> : +82-10-4234-1413
 
-linked-in: [seungsu-han](https://www.linkedin.com/in/seungsu-han-a92201330/)
+<img src="picture/linkedin.png" alt="linkedin" width="16" height="16"> : [seungsu-han](https://www.linkedin.com/in/seungsu-han-a92201330/)
 
 ## Education	        		
 - B.S. in Statistics | Seoul National University (_2020.03 - Present_)
