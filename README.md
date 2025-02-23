@@ -1,6 +1,6 @@
 Undergaduated student, Department of Statistics, Seoul National University
 
-![email](picture/mail.png){: style="width: 16px; height: 16px; vertical-align: middle;"} gkstmtm@gmail.com
+<img src="picture/mail.png" alt="email" width="16" height="16"> gkstmtm@gmail.com
 
 phone: +82-10-4234-1413
 
