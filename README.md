@@ -18,6 +18,8 @@ Undergaduated student, Department of Statistics, Seoul National University
 - field
 - skills
 
+**Tutor @ Basic Computing: Exploring Data for the First Time** (_2025 Spring_)
+- skills
 
 ## Honors and Awards
 - Academic Excellence Scholarship (_2021 Spring & Fall_)
