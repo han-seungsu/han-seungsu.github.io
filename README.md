@@ -7,6 +7,7 @@ Undergaduated student, Department of Statistics, Seoul National University
 <img src="picture/linkedin.webp" alt="linkedin" width="16" height="16"> : [seungsu-han](https://www.linkedin.com/in/seungsu-han-a92201330/)
 
 ## Education	        		
+- Korea Science Academy of KAIST (_2017.03 - 2020.02_)
 - B.S. in Statistics | Seoul National University (_2020.03 - Present_)
 
 ## Work Experience
