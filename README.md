@@ -26,18 +26,17 @@ Undergaduated student, Department of Statistics, Seoul National University
 - Academic Excellence Scholarship (_2021 Spring & Fall_)
 - National Science & Technology Scholarship (_2022 Spring - Present_)
 
-
+/*
 ## Qualifications
  - TOEFL 99
- - GRE ...
+*/
 
 ## Publications
-1. Oh, Sunmin, Seungsu Han, and Gunwoong Park. "Optimal estimation of linear non-Gaussian structure equation models." The 28th International Conference on Artificial Intelligence and Statistics.
-2. ...
-3. ...
+1. Oh, Sunmin, Seungsu Han, and Gunwoong Park. "Optimal estimation of linear non-Gaussian structure equation models." The 28th International Conference on Artificial Intelligence and Statistics, 2025
 
-
+/*
 ## Additional Information
 - Soccer team
 - TA
-- 멘토링..
+- 멘토링
+*/
