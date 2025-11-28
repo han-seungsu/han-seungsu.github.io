@@ -49,7 +49,7 @@ I am currently interested in statistically principled machine learning, with a f
 - **[Talk](poster/StiCTAF251110.pdf)** – *Stick-Breaking Mixture Normalizing Flows with Component-Wise Tail Adaptation for Variational Inference*  
   - Joint International Seminar with Kyushu University, Fukuoka, Japan, Nov 2025  
 
-- **[Poster](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202025/9498.png?t=1745467956.9214134)** – *Optimal estimation of linear non-Gaussian structure equation models*  
+- **[Poster](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202025/9498.png?t=1745467956.9214134)** – *Optimal estimation of linear non-Gaussian structure equation models*
   - Artificial Intelligence and Statistics (AISTATS 2025), Phuket, Thailand, May 2025  
 
 - **[Poster](poster/PCQ.pdf)** – *Probabilistic Conservative Q-learning*
