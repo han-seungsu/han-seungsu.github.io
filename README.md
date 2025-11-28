@@ -54,6 +54,7 @@ I am currently interested in statistically principled machine learning, with a f
 
 - **[Poster](poster/PCQ.pdf)** – *Probabilistic Conservative Q-learning*
   - Data Science & Reinforcement Learning(M3239.004100) Poster Session, Seoul, Republic of Korea, Jun 2025
+ 
 ---
 
 ## Honors and Awards
