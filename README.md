@@ -1,5 +1,5 @@
 Undergraduate student, Department of Statistics, Seoul National University  
-
+[CV](CV_SeungsuHan.pdf)
 <img src="picture/mail.png" alt="email" width="18" height="18"> : gkstmtm@snu.ac.kr  
 <img src="picture/phone.png" alt="phone" width="14" height="14"> : +82 10-4234-1413  
 <img src="picture/linkedin.webp" alt="linkedin" width="16" height="16"> : [seungsu-han](https://www.linkedin.com/in/seungsu-han-a92201330/)  
@@ -44,13 +44,13 @@ I am currently interested in statistically principled machine learning, with a f
 
 
 ## Talks & Posters
-- **Talk** – *Stick-Breaking Mixture Normalizing Flows with Component-Wise Tail Adaptation for Variational Inference*  
+- **[Talk](poster/StiCTAF251110.pdf)** – *Stick-Breaking Mixture Normalizing Flows with Component-Wise Tail Adaptation for Variational Inference*  
   - Joint International Seminar with Kyushu University, Fukuoka, Japan, Nov 2025  
 
 - **Poster** – *Optimal estimation of linear non-Gaussian structure equation models*  
   - Artificial Intelligence and Statistics (AISTATS 2025), Phuket, Thailand, May 2025  
 
-- **Poster** – *Probabilistic Conservative Q-learning*
+- **[Poster](poster/PCQ.pdf)** – *Probabilistic Conservative Q-learning*
   - Data Science & Reinforcement Learning(M3239.004100) Poster Session, Seoul, Republic of Korea, Jun 2025
 ---
 
