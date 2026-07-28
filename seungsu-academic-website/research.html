@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Research by Seungsu Han in variational inference, high-dimensional statistics, and causal discovery.">
+  <title>Research — Seungsu Han</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="Seungsu Han home">SH</a>
+    <button class="menu-button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav id="site-nav" class="site-nav" aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a class="active" href="research.html">Research</a>
+      <a href="publications.html">Publications</a>
+      <a class="nav-cv" href="CV_SeungsuHan.pdf">CV ↗</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-intro shell">
+      <p class="eyebrow">RESEARCH</p>
+      <h1>Statistical foundations for reliable machine learning</h1>
+      <p>
+        My work develops flexible computational methods without giving up the
+        statistical properties needed for trustworthy inference. I am especially
+        interested in posterior approximation, high-dimensional structure, and
+        robustness to non-Gaussian or heavy-tailed behavior.
+      </p>
+    </section>
+
+    <section class="section shell research-stack">
+      <article class="project">
+        <div class="project-meta">
+          <span>VARIATIONAL INFERENCE</span>
+          <span>2024–PRESENT</span>
+        </div>
+        <div class="project-content">
+          <h2>Component-wise tail-adaptive variational inference</h2>
+          <p>
+            Standard variational families often struggle to represent multimodal
+            posteriors and heterogeneous tail behavior. We develop a stick-breaking
+            mixture normalizing flow that adapts the tail behavior of each component
+            separately, together with a new tail estimator and theoretical guarantees.
+          </p>
+          <ul class="clean-list">
+            <li>Flexible stick-breaking mixture construction</li>
+            <li>Component-wise tail transformation</li>
+            <li>Consistency and convergence analysis</li>
+            <li>High-dimensional heavy-tailed posterior experiments</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://arxiv.org/abs/2510.07965">Preprint →</a>
+            <a href="poster/StiCTAF251110.pdf">Talk slides →</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="project-meta">
+          <span>CAUSAL DISCOVERY</span>
+          <span>2024</span>
+        </div>
+        <div class="project-content">
+          <h2>Optimal estimation of linear non-Gaussian causal models</h2>
+          <p>
+            We study structure learning for linear non-Gaussian acyclic models
+            and establish an algorithm with optimal sample complexity. The work
+            connects identifiability from non-Gaussianity with finite-sample
+            guarantees for causal graph recovery.
+          </p>
+          <ul class="clean-list">
+            <li>Structure learning for LiNGAMs</li>
+            <li>Optimal sample-complexity guarantees</li>
+            <li>Real-data analysis using the General Social Survey</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://virtual.aistats.org/Conferences/2025/Schedule?showEvent=9498">AISTATS page →</a>
+            <a href="https://virtual.aistats.org/media/PosterPDFs/AISTATS%202025/9498.png?t=1745467956.9214134">Poster →</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="project future-project">
+        <div class="project-meta">
+          <span>LOOKING AHEAD</span>
+        </div>
+        <div class="project-content">
+          <h2>Future directions</h2>
+          <p>
+            At Princeton, I hope to explore high-dimensional Bayesian inference,
+            uncertainty quantification for modern machine-learning systems, and
+            statistical robustness under distribution shift.
+          </p>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <p>© <span id="year"></span> Seungsu Han</p>
+    <p>Built for GitHub Pages.</p>
+  </footer>
+  <script src="assets/script.js"></script>
+</body>
+</html>
